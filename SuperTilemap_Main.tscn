@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://SuperTilemap_Main.gd" type="Script" id=1]
+
+[node name="World" type="Node2D"]
+position = Vector2( 512, 0 )
+scale = Vector2( 0.5, 0.5 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_group_": true
+}
+levels = 10
+
