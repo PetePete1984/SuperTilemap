@@ -2,7 +2,7 @@
 
 This is a Godot Engine 3.1 project showing the use of stacked TileMap nodes to render a classic sloped isometric map, as seen in Transport Tycoon Deluxe (or OpenTTD, nowadays).
 
-![Screenshot](https://github.com/PetePete1984/SuperTilemap/media/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/PetePete1984/SuperTilemap/master/media/screenshot.png)
 
 ## Motivation  
 The default TileMap node represents a single level of tiles and has built-in support for basic colliders and some Godot-style 2D light occlusion. This is enough for pretty much all games that keep gameplay on a flat plane, and can also be enough for some fake height display if you use non-flat tiles. They also allow for easy sorting of child nodes (so your player can walk behind trees), albeit only in Y direction.
