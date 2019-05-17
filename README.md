@@ -61,3 +61,7 @@ Also, my first approach used hashed neighbor dictionaries instead of bitmasks, b
 
 ## License
 As per the LICENSE file, the MIT License applies.
+
+## Shameless self-promo
+If you like what you see here, check out my other Github repos!
+If you really like what you see here, I have a Patreon too, where you can <a href="https://www.patreon.com/bePatron?u=19976598" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
